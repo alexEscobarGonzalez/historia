@@ -66,6 +66,7 @@
   .card__link,
   .card__exit,
   .card__icon {
+    font-size: 20px;
     position: relative;
     text-decoration: none;
     color: rgba(255, 255, 255, 0.9);
@@ -73,7 +74,7 @@
   
   .card__link::after {
     position: absolute;
-    top: 25px;
+    top: 30px;
     left: 0;
     content: "";
     width: 0%;
@@ -97,7 +98,7 @@
   }
   
   .card__title {
-    grid-row: 3/4;
+    grid-row: 1/4;
     font-weight: 400;
     color: #ffffff;
   }
@@ -135,5 +136,9 @@
     .cards {
       justify-content: center;
     }
+  }
+
+  .answer{
+    display: none;
   }
   
