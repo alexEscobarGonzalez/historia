@@ -1,9 +1,9 @@
 /* CSS */
 .button-51,
 .button-51:after {
-  width: 50px;
-  height: 25px;
-  line-height: 40px;
+  width: 150px;
+  height: 35px;
+  line-height: 35px;
   font-size: 17px;
   font-family: 'Bebas Neue', sans-serif;
   background: linear-gradient(45deg, transparent 5%, #52d2a5 5%);

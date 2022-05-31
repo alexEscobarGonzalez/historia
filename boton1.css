@@ -5,9 +5,9 @@ button {
 
 .button-50,
 .button-50:after {
-  width: 50px;
-  height: 25px;
-  line-height: 40px;
+  width: 150px;
+  height: 35px;
+  line-height: 35px;
   font-size: 17px;
   font-family: 'Bebas Neue', sans-serif;
   background: linear-gradient(45deg, transparent 5%, #5058d1 5%);
